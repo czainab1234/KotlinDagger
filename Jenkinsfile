@@ -16,5 +16,6 @@ pipeline {
               archiveArtifacts '**/*.apk'
               archiveArtifacts '**/*.aab'
               }
+          }
       }
 }
