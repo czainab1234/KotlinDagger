@@ -22,7 +22,8 @@ android {
         release {
           firebaseAppDistribution {
                 artifactType="APK"
-                releaseNotesFile="/app/seasonal-android-firebase.json"
+                releaseNotes = "Test Notes"
+                serviceCredentialsFile = System.getenv("GOOGLE_APPLICATION_CREDENTIALS")
                 minifyEnabled false
                 proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
