@@ -13,7 +13,7 @@ pipeline {
           stage('Archive Files') {
               steps{
               echo 'Archiving APKs...'
-              archiveArtifacts '**/*.apk','**/*.aab'
+              archiveArtifacts '**/*.apk,**/*.aab'
               
               }
           }
