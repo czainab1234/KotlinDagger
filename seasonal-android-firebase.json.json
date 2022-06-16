@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "android-pipeline-12",
+  "private_key_id": "d3b951da951c243e19506573f0e1b3cf8222107d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDS2QPKYfUmc06e\nFb++KIt48/d33rhezbNYT5Fg83dRwooXU06gyOhLy0oyEuAoQ/XhiljEcEajfb0c\ns6pl0Q7i7LzS0mioNov7GE7JjZ7dzjNi7BjB2vWgjNxDKrCzCUyWUtqR1OKFHu4V\n2hYDJfK4k9aAQ5HG05RYm9SfYN1HxAl04kc0o9W6X1tXjGATrGIKz4+ySty9X0Wt\nZZXYyvB1EJl+G5T7M9SnJaZZltrkukccQv765vbP7C3ERXNKQaC8h2jLxCLetcUG\na3iLERPBlyxpxi2x3RAp2dA5sdfGtAytJlv7r+xFCDZ3xDuQiDL+nlPJntf3oRm4\nH+KYYqCfAgMBAAECggEAGYsP4f8/B0L11cH1wjBAQU1w//Ub6eRKo1q0VoX4QQ/r\n0cqWXnUoazI8EVfnDwm4qnOrsFSXwiuz8tuzO3V5s7URZQr3gdVl3OwDc3h0NBPM\nduH6V9XSZvpZnst3r6DjRdzQvNUJAi6OklgizYvV3VWPqWdGLEuqj5eFSS+fbxeQ\n42bsKX4RTvJWnRvgHnOWVQucxxhkir/s0mi5nrwwMGOUEXD2FPhySxAva0c24mHH\nxRYDQ8hOnzFlpQO2E87cG/ALEjH/B2dwngY4B3rkHaLduPpOzSO5l4OTWTyScU1V\nScMIXJBfWXSs86+oR0Xp0JJ2m4KBv0xpn8yYl/CNVQKBgQDynjQ59Skv9rdArtdc\noVSbYd2L2SrRNox29ggMxoyLBfhh89kP4vbxxH6ZGJKtHp/DSPBx/wiEAAS8JWFg\ni9mSKxgiT8sqmkwl4Dk5SuoAANGGZWtMrMGfleCe+KnKkNMEFg4hOli5idrgtm8y\nJerUFSYc/llfvNv9jyfVfzv03QKBgQDeejXs3Jyv8+/kotrsxMii7fLwj0PhL5a8\nIg8Jb29Do9IexrMx/QXrCvEh8IgI5l/VlYSdNYjkfOAlVadWxxUD+4czMdue4/jl\ngaUlcvi1Ga9fYDNa62RRyydB1VsOvwDStSr1joyMZAVrilY2/tE/jimEY8PTMht6\nReJzhQjFqwKBgQCifeyyqIzmT9HaI3+fzXlx+/C6uj8gEe2vuwYXMF9uuRfq2ruV\nFUiZEiZL+RY7llggHdjUMKAOcEi7jjmSxPd6Gxy11kVXCjJX573Lrm3chK/P2Fst\n5kJj1Ki1MAvf3HFHulHKVV6ZHUgX2nfM2XJWireVEZDgOwgH4XonVmjcjQKBgQDE\nyVLDlYwe8uWB1i9ReOqDe3gFIqQHHmH1PScR0HiZWuF0CYvdrpI6ii4qOCkLvkKM\nmLl5mS3h9TcKrw3aazQClszLEtHRZJL25sseKeklv3dpJJ2oUUgmNU0fJUpq67Yd\nqtQ56gIV+C73JaEG+jQ6RFQi32AKgmrdp80bI1RUCwKBgAYobRQsjdpl9gAFbOMP\n8NalckonC4ANwm1A2mHwVAwyi+LPKqihVa+qm6RV3w7GX9LEjfk2megd1hOHsFcO\n16JsDH9tY9OOy2oeHYjXq2YQ76wbNKyy1D3B3/c3TaY5yqX/RzO6RQt5v6f5aWjJ\nlsdqVUj7hel77Q9tYlt9oMK4\n-----END PRIVATE KEY-----\n",
+  "client_email": "android-pipeline-12@android-pipeline-12.iam.gserviceaccount.com",
+  "client_id": "110005198367018510976",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/android-pipeline-12%40android-pipeline-12.iam.gserviceaccount.com"
+}
