@@ -24,7 +24,7 @@ android {
                 artifactType="APK"
                 appId ="110005198367018510976"
                 //releaseNotesFile = "android-pipeline-12-606dc93d4af5.json"
-                serviceCredentialsFile = System.getenv("GOOGLE_APPLICATION_CREDENTIALS")
+                serviceCredentialsFile = "./android-pipeline-12-606dc93d4af5.json"
                 
                 minifyEnabled false
                 proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
