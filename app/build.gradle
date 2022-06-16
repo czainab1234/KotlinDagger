@@ -22,7 +22,7 @@ android {
         release {
           firebaseAppDistribution {
                 artifactType="APK"
-                releaseNotesFile="/path/to/releasenotes.txt"
+                releaseNotesFile="/app/seasonal-android-firebase.json"
                 minifyEnabled false
                 proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
