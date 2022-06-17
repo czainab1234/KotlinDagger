@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23234820414",
+    "project_id": "android-code-new",
+    "storage_bucket": "android-code-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23234820414:android:e71a0ca4bbc8bfad25d46f",
+        "android_client_info": {
+          "package_name": "com.mvvm.kotlin.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23234820414-1d1ahd72cn518cjggfkut810rlnj0fkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRjZrPBmjw_WazCIkahm7ZbInO9imXDC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23234820414-1d1ahd72cn518cjggfkut810rlnj0fkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
