@@ -23,7 +23,7 @@ android {
                firebaseAppDistribution {
                    releaseNotes = "Test Notes"
                    appId = "1:364564499489:android:49c63b9903c102ec126760"
-                   serviceCredentialsFile = "/var/lib/jenkins/workspace/android-app/app/google-services.json"
+                   serviceCredentialsFile = "/var/lib/jenkins/workspace/android-app/app/hello-world-8fe44-f2fa2f1af85c.json"
                    groups="velos_testre"
  
                 
