@@ -23,11 +23,11 @@ pipeline {
           }
            stage ('Distribute') {
                steps{
-                 withEnv(GOOGLE_APPLICATION_CREDENTIALS) {
+                 
                    sh "./gradlew assembleRelease appDistributionUploadRelease"
               }
                
-          }
+          
            }
            
       }
