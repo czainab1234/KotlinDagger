@@ -1,8 +1,6 @@
 pipeline {
     agent any
-    environment = {
-        "GOOGLE_APPLICATION_CREDENTIALS=/var/lib/jenkins/workspace/android-app/app/android-code-new-d608a52fc088.json"
-    }
+    
 
       stages {
           stage('build') {
@@ -20,10 +18,6 @@ pipeline {
               
               }
           }
-           stage ('Distribute') {
-              withEnv(environment) {
-                  sh "./gradlew assembleRelease appDistributionUploadRelease"
-              }
-          }
+           
       }
 }
