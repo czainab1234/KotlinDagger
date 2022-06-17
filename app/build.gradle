@@ -20,15 +20,15 @@ android {
     }
     buildTypes {
         release {
-          //firebaseAppDistribution {
-                //artifactType="APK"
-                //appId ="110005198367018510976"
-                //releaseNotesFile = "android-pipeline-12-606dc93d4af5.json"
-                //serviceCredentialsFile = "$rootDir/android-pipeline-12-606dc93d4af5.json"
+               firebaseAppDistribution {
+                   releaseNotes = "Test Notes"
+                   serviceCredentialsFile = "$rootDir/google-services.json"
+                   groups="velos_testre"
+ 
                 
-                minifyEnabled false
-                proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
-        //}
+                  minifyEnabled false
+                  proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
         }
     }
 }
