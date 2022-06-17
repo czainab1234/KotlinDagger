@@ -1,7 +1,7 @@
 pipeline {
     agent any
     environment{
-      GOOGLE_APPLICATION_CREDENTIALS = "/var/lib/jenkins/workspace/android-app/app/android-code-new-d608a52fc088.json"
+      GOOGLE_APPLICATION_CREDENTIALS = "/var/lib/jenkins/workspace/android-pipeline/app/android-code-new-d608a52fc088.json"
     }
     
 
