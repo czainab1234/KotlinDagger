@@ -22,9 +22,10 @@ android {
         release {
                firebaseAppDistribution {
                    releaseNotes = "Test Notes"
-                   appId = "1:323198018809:android:d92560c583045824c66e28"
-                   serviceCredentialsFile = "/var/lib/jenkins/workspace/android-app/app/new-app-e5cad-06b9e3ab07a5.json"
-                   groups="velos_testre"
+                   appId = "1:23234820414:android:e71a0ca4bbc8bfad25d46f"
+                   serviceCredentialsFile = "/var/lib/jenkins/workspace/android-app/app/android-code-new-d608a52fc088.json"
+                   groups="tester"
+                   tester="czainab@futransolutions.com, drakesh@futransolutions.com"
  
                 
                   minifyEnabled false
