@@ -24,7 +24,7 @@ android {
                    releaseNotes = "Test Notes"
                    appId = "1:23234820414:android:e71a0ca4bbc8bfad25d46f"
                    serviceCredentialsFile = "/var/lib/jenkins/workspace/android-app/app/android-code-new-d608a52fc088.json"
-                   artifactType="APK"
+                   artifactType="AAB"
                    groups="tester"
                    //tester="czainab@futransolutions.com, drakesh@futransolutions.com"
  
